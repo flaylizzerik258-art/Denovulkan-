@@ -164,4 +164,4 @@ public class CommandPool {
         public boolean isSubmitted() { return submitted; }
         public boolean isRecording() { return recording; }
     }
-        }
+}    
